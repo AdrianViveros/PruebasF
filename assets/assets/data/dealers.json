@@ -1,0 +1,893 @@
+[
+  {
+    "id": "01",
+    "name": "Wanshot Comics",
+    "table_number": "01",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.20,
+    "map_y": 0.85
+  },
+  {
+    "id": "02",
+    "name": "Trash Collection",
+    "table_number": "02",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.25,
+    "map_y": 0.85
+  },
+  {
+    "id": "03",
+    "name": "Izzaki Mur & Wendy Lily",
+    "table_number": "03",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.30,
+    "map_y": 0.85
+  },
+  {
+    "id": "04",
+    "name": "Katx Fish Y Relaxelis",
+    "table_number": "04",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.35,
+    "map_y": 0.85
+  },
+  {
+    "id": "05",
+    "name": "Pyrope Costumes & Real Skaly",
+    "table_number": "05",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.40,
+    "map_y": 0.85
+  },
+  {
+    "id": "06",
+    "name": "Furry FN Shop",
+    "table_number": "06",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.20,
+    "map_y": 0.75
+  },
+  {
+    "id": "07",
+    "name": "Big Bad Wolves Licos + Vandroiy",
+    "table_number": "07",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.25,
+    "map_y": 0.75
+  },
+  {
+    "id": "08",
+    "name": "Digiraptors",
+    "table_number": "08",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.30,
+    "map_y": 0.75
+  },
+  {
+    "id": "09",
+    "name": "Supykun LLC",
+    "table_number": "09",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.35,
+    "map_y": 0.75
+  },
+  {
+    "id": "10",
+    "name": "Furry Trash",
+    "table_number": "10",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.40,
+    "map_y": 0.75
+  },
+  {
+    "id": "11",
+    "name": "Colectivo Pinky Beans",
+    "table_number": "11",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.60,
+    "map_y": 0.85
+  },
+  {
+    "id": "12",
+    "name": "Kannae Tepes",
+    "table_number": "12",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.65,
+    "map_y": 0.85
+  },
+  {
+    "id": "13",
+    "name": "ZIPPER HYENA y Pumpkin Wolf",
+    "table_number": "13",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.70,
+    "map_y": 0.85
+  },
+  {
+    "id": "14",
+    "name": "Horns & Claws",
+    "table_number": "14",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.75,
+    "map_y": 0.85
+  },
+  {
+    "id": "15",
+    "name": "Takemoto",
+    "table_number": "15",
+    "type": "Mesa",
+    "is_featured": true,
+    "map_x": 0.80,
+    "map_y": 0.85
+  },
+  {
+    "id": "16",
+    "name": "TigerStar",
+    "table_number": "16",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.60,
+    "map_y": 0.75
+  },
+  {
+    "id": "17",
+    "name": "Colectivo Stardust",
+    "table_number": "17",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.65,
+    "map_y": 0.75
+  },
+  {
+    "id": "18",
+    "name": "Roodo",
+    "table_number": "18",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.70,
+    "map_y": 0.75
+  },
+  {
+    "id": "19",
+    "name": "High Voltage Wolves",
+    "table_number": "19",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.75,
+    "map_y": 0.75
+  },
+  {
+    "id": "20",
+    "name": "Fluffy Crafts",
+    "table_number": "20",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.80,
+    "map_y": 0.75
+  },
+  {
+    "id": "21",
+    "name": "STEAM SALMON",
+    "table_number": "21",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.20,
+    "map_y": 0.65
+  },
+  {
+    "id": "22",
+    "name": "Bastriw",
+    "table_number": "22",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.25,
+    "map_y": 0.65
+  },
+  {
+    "id": "23",
+    "name": "Skelly + Mess",
+    "table_number": "23",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.30,
+    "map_y": 0.65
+  },
+  {
+    "id": "24",
+    "name": "Furral Fangtasy",
+    "table_number": "24",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.35,
+    "map_y": 0.65
+  },
+  {
+    "id": "25",
+    "name": "Chutkat & Gado",
+    "table_number": "25",
+    "type": "Mesa",
+    "is_featured": true,
+    "map_x": 0.40,
+    "map_y": 0.65
+  },
+  {
+    "id": "26",
+    "name": "KeroSagi",
+    "table_number": "26",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.20,
+    "map_y": 0.55
+  },
+  {
+    "id": "27",
+    "name": "Ponccino",
+    "table_number": "27",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.25,
+    "map_y": 0.55
+  },
+  {
+    "id": "28",
+    "name": "Zorro Chino",
+    "table_number": "28",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.30,
+    "map_y": 0.55
+  },
+  {
+    "id": "29",
+    "name": "NexcoyotlGT",
+    "table_number": "29",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.35,
+    "map_y": 0.55
+  },
+  {
+    "id": "30",
+    "name": "Luis Huerta (Gamutfeathers)",
+    "table_number": "30",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.40,
+    "map_y": 0.55
+  },
+  {
+    "id": "31",
+    "name": "Sweetkllrvae",
+    "table_number": "31",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.60,
+    "map_y": 0.65
+  },
+  {
+    "id": "32",
+    "name": "Monkey Maker",
+    "table_number": "32",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.65,
+    "map_y": 0.65
+  },
+  {
+    "id": "33",
+    "name": "Mika Academy",
+    "table_number": "33",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.70,
+    "map_y": 0.65
+  },
+  {
+    "id": "34",
+    "name": "Kiwisiosa",
+    "table_number": "34",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.75,
+    "map_y": 0.65
+  },
+  {
+    "id": "35",
+    "name": "Garurykai / MirageWeasel",
+    "table_number": "35",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.80,
+    "map_y": 0.65
+  },
+  {
+    "id": "36",
+    "name": "Cinna!",
+    "table_number": "36",
+    "type": "Mesa",
+    "is_featured": true,
+    "map_x": 0.60,
+    "map_y": 0.55
+  },
+  {
+    "id": "37",
+    "name": "ChipsGoWOAH",
+    "table_number": "37",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.65,
+    "map_y": 0.55
+  },
+  {
+    "id": "38",
+    "name": "El Arte de Magolobo",
+    "table_number": "38",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.70,
+    "map_y": 0.55
+  },
+  {
+    "id": "39",
+    "name": "Garbage Gang",
+    "table_number": "39",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.75,
+    "map_y": 0.55
+  },
+  {
+    "id": "40",
+    "name": "Pepper Coyote",
+    "table_number": "40",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.80,
+    "map_y": 0.55
+  },
+  {
+    "id": "41",
+    "name": "Pawie paws fursuits",
+    "table_number": "41",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.20,
+    "map_y": 0.45
+  },
+  {
+    "id": "42",
+    "name": "Colectivo Jugo Verde",
+    "table_number": "42",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.25,
+    "map_y": 0.45
+  },
+  {
+    "id": "43",
+    "name": "Limonada Fursuits",
+    "table_number": "43",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.30,
+    "map_y": 0.45
+  },
+  {
+    "id": "44",
+    "name": "It's Nyx Cat",
+    "table_number": "44",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.35,
+    "map_y": 0.45
+  },
+  {
+    "id": "45",
+    "name": "Riisago",
+    "table_number": "45",
+    "type": "Mesa",
+    "is_featured": true,
+    "map_x": 0.40,
+    "map_y": 0.45
+  },
+  {
+    "id": "46",
+    "name": "Cazadores del Invierno",
+    "table_number": "46",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.20,
+    "map_y": 0.35
+  },
+  {
+    "id": "47",
+    "name": "MangoLynx",
+    "table_number": "47",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.25,
+    "map_y": 0.35
+  },
+  {
+    "id": "48",
+    "name": "KamuiWorks",
+    "table_number": "48",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.30,
+    "map_y": 0.35
+  },
+  {
+    "id": "49",
+    "name": "Zoehi",
+    "table_number": "49",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.35,
+    "map_y": 0.35
+  },
+  {
+    "id": "50",
+    "name": "Furrytoons",
+    "table_number": "50",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.40,
+    "map_y": 0.35
+  },
+  {
+    "id": "51",
+    "name": "SkullRaya",
+    "table_number": "51",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.60,
+    "map_y": 0.45
+  },
+  {
+    "id": "52",
+    "name": "MailoniKat",
+    "table_number": "52",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.65,
+    "map_y": 0.45
+  },
+  {
+    "id": "53",
+    "name": "Moondara & Attoz",
+    "table_number": "53",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.70,
+    "map_y": 0.45
+  },
+  {
+    "id": "54",
+    "name": "Frutos y Haru crow",
+    "table_number": "54",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.75,
+    "map_y": 0.45
+  },
+  {
+    "id": "55",
+    "name": "Alf Doggo & Racrev",
+    "table_number": "55",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.80,
+    "map_y": 0.45
+  },
+  {
+    "id": "56",
+    "name": "CheetahPaws",
+    "table_number": "56",
+    "type": "Mesa",
+    "is_featured": true,
+    "map_x": 0.60,
+    "map_y": 0.35
+  },
+  {
+    "id": "57",
+    "name": "Jocesara Unicart & Ariart",
+    "table_number": "57",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.65,
+    "map_y": 0.35
+  },
+  {
+    "id": "58",
+    "name": "El Saulo x Lobo de Confianza",
+    "table_number": "58",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.70,
+    "map_y": 0.35
+  },
+  {
+    "id": "59",
+    "name": "Lupin B. & Laancer",
+    "table_number": "59",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.75,
+    "map_y": 0.35
+  },
+  {
+    "id": "60",
+    "name": "Corxul & Silly Bug",
+    "table_number": "60",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.80,
+    "map_y": 0.35
+  },
+  {
+    "id": "61",
+    "name": "Editorial Chipotle",
+    "table_number": "61",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.20,
+    "map_y": 0.25
+  },
+  {
+    "id": "62",
+    "name": "Vuohi",
+    "table_number": "62",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.25,
+    "map_y": 0.25
+  },
+  {
+    "id": "63",
+    "name": "Dokkopi",
+    "table_number": "63",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.30,
+    "map_y": 0.25
+  },
+  {
+    "id": "64",
+    "name": "Blackypng y Tony Tamales",
+    "table_number": "64",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.35,
+    "map_y": 0.25
+  },
+  {
+    "id": "65",
+    "name": "Jedah Missile",
+    "table_number": "65",
+    "type": "Mesa",
+    "is_featured": true,
+    "map_x": 0.40,
+    "map_y": 0.25
+  },
+  {
+    "id": "66",
+    "name": "Chromatic Folklore",
+    "table_number": "66",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.20,
+    "map_y": 0.15
+  },
+  {
+    "id": "67",
+    "name": "GaelRice",
+    "table_number": "67",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.25,
+    "map_y": 0.15
+  },
+  {
+    "id": "68",
+    "name": "Ode Moncat",
+    "table_number": "68",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.30,
+    "map_y": 0.15
+  },
+  {
+    "id": "69",
+    "name": "Toxic Melon Soda",
+    "table_number": "69",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.35,
+    "map_y": 0.15
+  },
+  {
+    "id": "70",
+    "name": "Prueban y Shootika",
+    "table_number": "70",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.40,
+    "map_y": 0.15
+  },
+  {
+    "id": "71",
+    "name": "Espada de luz",
+    "table_number": "71",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.60,
+    "map_y": 0.15
+  },
+  {
+    "id": "72",
+    "name": "Cookie Dough",
+    "table_number": "72",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.65,
+    "map_y": 0.15
+  },
+  {
+    "id": "73",
+    "name": "Colectivo ShiroKuro",
+    "table_number": "73",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.70,
+    "map_y": 0.15
+  },
+  {
+    "id": "74",
+    "name": "Booki X Padzyan Arties",
+    "table_number": "74",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.75,
+    "map_y": 0.15
+  },
+  {
+    "id": "75",
+    "name": "El Cubil",
+    "table_number": "75",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.80,
+    "map_y": 0.15
+  },
+  {
+    "id": "76",
+    "name": "Tezca de oca xdhx",
+    "table_number": "76",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.60,
+    "map_y": 0.25
+  },
+  {
+    "id": "77",
+    "name": "TYSKÖLL",
+    "table_number": "77",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.65,
+    "map_y": 0.25
+  },
+  {
+    "id": "78",
+    "name": "MarshDuki Marshmoon y Tienduki",
+    "table_number": "78",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.70,
+    "map_y": 0.25
+  },
+  {
+    "id": "79",
+    "name": "Lowemond",
+    "table_number": "79",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.75,
+    "map_y": 0.25
+  },
+  {
+    "id": "80",
+    "name": "TanT Shop x Katsudoggo Workshop",
+    "table_number": "80",
+    "type": "Mesa",
+    "is_featured": false,
+    "map_x": 0.80,
+    "map_y": 0.25
+  },
+  {
+    "id": "A",
+    "name": "Rom Howler",
+    "table_number": "Stand A",
+    "type": "Stand",
+    "is_featured": false,
+    "map_x": 0.10,
+    "map_y": 0.05
+  },
+  {
+    "id": "B",
+    "name": "Praquina",
+    "table_number": "Stand B",
+    "type": "Stand",
+    "is_featured": false,
+    "map_x": 0.20,
+    "map_y": 0.05
+  },
+  {
+    "id": "C",
+    "name": "Meijokko & Neruko",
+    "table_number": "Stand C",
+    "type": "Stand",
+    "is_featured": false,
+    "map_x": 0.30,
+    "map_y": 0.05
+  },
+  {
+    "id": "D",
+    "name": "Team Anxious Furry",
+    "table_number": "Stand D",
+    "type": "Stand",
+    "is_featured": false,
+    "map_x": 0.40,
+    "map_y": 0.05
+  },
+  {
+    "id": "E",
+    "name": "Arty y Chikle",
+    "table_number": "Stand E",
+    "type": "Stand",
+    "is_featured": false,
+    "map_x": 0.50,
+    "map_y": 0.05
+  },
+  {
+    "id": "F",
+    "name": "Working Paws / Sharkius",
+    "table_number": "Stand F",
+    "type": "Stand",
+    "is_featured": false,
+    "map_x": 0.60,
+    "map_y": 0.05
+  },
+  {
+    "id": "G",
+    "name": "Los Artistas de Bremen",
+    "table_number": "Stand G",
+    "type": "Stand",
+    "is_featured": false,
+    "map_x": 0.70,
+    "map_y": 0.05
+  },
+  {
+    "id": "H",
+    "name": "Meraki x Deivid Utailus Bear x Fumi Bat",
+    "table_number": "Stand H",
+    "type": "Stand",
+    "is_featured": false,
+    "map_x": 0.80,
+    "map_y": 0.05
+  },
+  {
+    "id": "I",
+    "name": "GAB SHIBA",
+    "table_number": "Stand I",
+    "type": "Stand",
+    "is_featured": false,
+    "map_x": 0.90,
+    "map_y": 0.05
+  },
+  {
+    "id": "J",
+    "name": "Oren Juice",
+    "table_number": "Stand J",
+    "type": "Stand",
+    "is_featured": true,
+    "map_x": 0.10,
+    "map_y": 0.95
+  },
+  {
+    "id": "K",
+    "name": "Okaeri Studios",
+    "table_number": "Stand K",
+    "type": "Stand",
+    "is_featured": false,
+    "map_x": 0.20,
+    "map_y": 0.95
+  },
+  {
+    "id": "L",
+    "name": "NOXIOUS",
+    "table_number": "Stand L",
+    "type": "Stand",
+    "is_featured": false,
+    "map_x": 0.30,
+    "map_y": 0.95
+  },
+  {
+    "id": "M",
+    "name": "Waffle Wishes",
+    "table_number": "Stand M",
+    "type": "Stand",
+    "is_featured": false,
+    "map_x": 0.40,
+    "map_y": 0.95
+  },
+  {
+    "id": "N",
+    "name": "Dacachi",
+    "table_number": "Stand N",
+    "type": "Stand",
+    "is_featured": false,
+    "map_x": 0.50,
+    "map_y": 0.95
+  },
+  {
+    "id": "Ñ",
+    "name": "TigerLion Moikana",
+    "table_number": "Stand Ñ",
+    "type": "Stand",
+    "is_featured": false,
+    "map_x": 0.60,
+    "map_y": 0.95
+  },
+  {
+    "id": "O",
+    "name": "Michiverso",
+    "table_number": "Stand O",
+    "type": "Stand",
+    "is_featured": false,
+    "map_x": 0.70,
+    "map_y": 0.95
+  },
+  {
+    "id": "P",
+    "name": "Stupid & Toxic",
+    "table_number": "Stand P",
+    "type": "Stand",
+    "is_featured": false,
+    "map_x": 0.80,
+    "map_y": 0.95
+  },
+  {
+    "id": "Q",
+    "name": "T&T Noir Goat y Asociados",
+    "table_number": "Stand Q",
+    "type": "Stand",
+    "is_featured": false,
+    "map_x": 0.85,
+    "map_y": 0.95
+  },
+  {
+    "id": "R",
+    "name": "Messy Satanist",
+    "table_number": "Stand R",
+    "type": "Stand",
+    "is_featured": false,
+    "map_x": 0.90,
+    "map_y": 0.95
+  }
+]

@@ -1,0 +1,1821 @@
+﻿[
+    {
+        "id": "evt_001",
+        "title": "Neopets a Media Noche",
+        "panelist": "Corvus Cantum",
+        "description": "Aprende sobre Neopets y todo aquello que atrae a los más pervertidos de Neopia.",
+        "category": "Conferencia",
+        "location": "Foro II (Jalisco B)",
+        "day": "Jueves",
+        "start_iso": "2025-10-23T20:00:00",
+        "end_iso": "2025-10-23T21:00:00",
+        "age_restriction": "18+",
+        "tags": [
+            "Fandom",
+            "Neopets"
+        ]
+    },
+    {
+        "id": "evt_002",
+        "title": "El Arquetipo y el Totem",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Conferencia",
+        "location": "Foro III (Jalisco B)",
+        "day": "Jueves",
+        "start_iso": "2025-10-23T20:00:00",
+        "end_iso": "2025-10-23T21:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_003",
+        "title": "UwUri x Metalpup (Siberian Scratch)",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Música",
+        "location": "Meeting Room (Jalisco B)",
+        "day": "Jueves",
+        "start_iso": "2025-10-23T20:00:00",
+        "end_iso": "2025-10-23T21:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_004",
+        "title": "Mercadito de artistas",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Exposición",
+        "location": "Artist Alley (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T10:00:00",
+        "end_iso": "2025-10-24T18:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_005",
+        "title": "Uso de sustancias y reducción de riesgos",
+        "panelist": "Levy Dawncatcher",
+        "description": "Información objetiva sobre sustancias y reducción de riesgos.",
+        "category": "Conferencia",
+        "location": "Foro III (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T20:00:00",
+        "end_iso": "2025-10-24T22:00:00",
+        "age_restriction": "18+",
+        "tags": [
+            "Salud",
+            "Seguridad"
+        ]
+    },
+    {
+        "id": "evt_006",
+        "title": "Noche Retro con DJ Mosca",
+        "panelist": "DJ Mosca",
+        "description": "Desde Madonna y Rick Astley hasta OV7. Música retro para bailar.",
+        "category": "Fiesta",
+        "location": "Main Stage (Jalisco B)",
+        "day": "Sábado",
+        "start_iso": "2025-10-25T20:00:00",
+        "end_iso": "2025-10-25T21:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Música",
+            "Baile"
+        ]
+    },
+    {
+        "id": "evt_007",
+        "title": "Night Market",
+        "panelist": "Confuror",
+        "description": "Exposición y mercado nocturno.",
+        "category": "Exposición",
+        "location": "Foro I (Montaje Escuela) (Jalisco A)",
+        "day": "Sábado",
+        "start_iso": "2025-10-25T20:00:00",
+        "end_iso": "2025-10-25T21:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Mercado",
+            "Noche"
+        ]
+    },
+    {
+        "id": "evt_008",
+        "title": "Dibuja Rico: Anatomía Furry con Sabor",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Taller",
+        "location": "WorkShop Zone (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T20:00:00",
+        "end_iso": "2025-10-24T21:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_009",
+        "title": "Crayones Nocturnos: Party Soft!",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Social",
+        "location": "Meeting Room (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T20:30:00",
+        "end_iso": "2025-10-24T22:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_010",
+        "title": "Yo sólo soy un furro ¿A a mí qué me importa la política?",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Conferencia",
+        "location": "Foro II (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T20:30:00",
+        "end_iso": "2025-10-24T21:30:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_011",
+        "title": "¿Tienes ideas y proyectos? Networking- Conectando mentes con talentos.",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Social",
+        "location": "Meeting Room (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T20:45:00",
+        "end_iso": "2025-10-24T22:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_012",
+        "title": "Una huella en la pista",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Actividad Grupal",
+        "location": "Foro I (Usos Múltiples) (Jalisco A)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T21:00:00",
+        "end_iso": "2025-10-24T22:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_013",
+        "title": "PAWLYMARCHS: DJ Shusho B2B DJ Noise",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Fiesta",
+        "location": "Main Stage (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T21:00:00",
+        "end_iso": "2025-10-24T22:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_014",
+        "title": "Bestias y Bocetos",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Taller",
+        "location": "WorkShop Zone (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T21:00:00",
+        "end_iso": "2025-10-24T22:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_015",
+        "title": "Melones y Bananas",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Por definir",
+        "location": "Meeting Room (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T21:00:00",
+        "end_iso": "2025-10-24T22:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_016",
+        "title": "¡Pasarela!",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Ceremonia",
+        "location": "Main Stage (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T21:00:00",
+        "end_iso": "2025-10-24T22:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_017",
+        "title": "FunkHaus Fever — Knox & Khatru",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Música",
+        "location": "Main Stage (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T22:00:00",
+        "end_iso": "2025-10-24T23:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_018",
+        "title": "Pre Registro",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Registro",
+        "location": "Foro I (Usos Múltiples) (Jalisco A)",
+        "day": "Miércoles",
+        "start_iso": "2025-10-22T14:00:00",
+        "end_iso": "2025-10-22T15:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_019",
+        "title": "Registro",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Registro",
+        "location": "Foro I (Usos Múltiples) (Jalisco A)",
+        "day": "Jueves",
+        "start_iso": "2025-10-23T13:00:00",
+        "end_iso": "2025-10-23T14:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_020",
+        "title": "¡KARAOKE EL REGISTRO!",
+        "panelist": "Confuror",
+        "description": "Ven a cantar con tus amigos en el Main Stage.",
+        "category": "Karaoke",
+        "location": "Main Stage (Jalisco B)",
+        "day": "Jueves",
+        "start_iso": "2025-10-23T14:00:00",
+        "end_iso": "2025-10-23T15:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Música",
+            "Karaoke"
+        ]
+    },
+    {
+        "id": "evt_021",
+        "title": "Aprende y juega a poke/digimon TCG",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Social",
+        "location": "Artist Alley (Jalisco B)",
+        "day": "Jueves",
+        "start_iso": "2025-10-23T14:00:00",
+        "end_iso": "2025-10-23T15:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_022",
+        "title": "El pinche taller de dibujo de furros mamados",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Taller",
+        "location": "Foro II (Jalisco B)",
+        "day": "Jueves",
+        "start_iso": "2025-10-23T14:00:00",
+        "end_iso": "2025-10-23T15:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_023",
+        "title": "Pelo, Plumas y Escamas para el alma",
+        "panelist": "Psi. Kiwo Bison",
+        "description": "Uso de la fursona como herramienta de bienestar mental.",
+        "category": "Conferencia",
+        "location": "Foro III (Jalisco B)",
+        "day": "Jueves",
+        "start_iso": "2025-10-23T14:00:00",
+        "end_iso": "2025-10-23T15:30:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Psicología",
+            "Fursona"
+        ]
+    },
+    {
+        "id": "evt_024",
+        "title": "Kakimashō! Aprendamos caligrafía japonesa.",
+        "panelist": "Yuushi",
+        "description": "Aprende las bases de la caligrafía japonesa con pincel y tinta.",
+        "category": "Taller",
+        "location": "WorkShop Zone (Jalisco B)",
+        "day": "Jueves",
+        "start_iso": "2025-10-23T14:00:00",
+        "end_iso": "2025-10-23T15:30:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Arte",
+            "Cultura"
+        ]
+    },
+    {
+        "id": "evt_025",
+        "title": "Digimon meet & greet",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Social",
+        "location": "Meeting Room (Jalisco B)",
+        "day": "Jueves",
+        "start_iso": "2025-10-23T15:15:00",
+        "end_iso": "2025-10-23T16:15:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_026",
+        "title": "Duelo de Espadas ¿Qué es el rol Neutro?",
+        "panelist": "Katsu 'Las Garras del Ring'",
+        "description": "El panel informará al público acerca de lo que es el rol sexual Neutro y desmentir mitos.",
+        "category": "Conferencia",
+        "location": "Foro II (Jalisco B)",
+        "day": "Jueves",
+        "start_iso": "2025-10-23T15:45:00",
+        "end_iso": "2025-10-23T16:45:00",
+        "age_restriction": "18+",
+        "tags": [
+            "Educación",
+            "Sexualidad"
+        ]
+    },
+    {
+        "id": "evt_027",
+        "title": "Unidad de manada: consejos para crear comunidad desde 0",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Conferencia",
+        "location": "WorkShop Zone (Jalisco B)",
+        "day": "Jueves",
+        "start_iso": "2025-10-23T15:45:00",
+        "end_iso": "2025-10-23T16:45:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_028",
+        "title": "Rufus Rooskram En Vivo",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Música",
+        "location": "Main Stage (Jalisco B)",
+        "day": "Jueves",
+        "start_iso": "2025-10-23T16:30:00",
+        "end_iso": "2025-10-23T17:30:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_029",
+        "title": "Como el dinero cambia mi videojuego",
+        "panelist": "Akiro Akita Inu",
+        "description": "Charla enfocada en el diseño de videojuegos y cómo la monetización influencia las mecánicas.",
+        "category": "Conferencia",
+        "location": "Foro II (Jalisco B)",
+        "day": "Jueves",
+        "start_iso": "2025-10-23T17:00:00",
+        "end_iso": "2025-10-23T18:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Videojuegos",
+            "Desarrollo"
+        ]
+    },
+    {
+        "id": "evt_030",
+        "title": "¿Qué o quiénes son los furros?",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Conferencia",
+        "location": "Foro III (Jalisco B)",
+        "day": "Jueves",
+        "start_iso": "2025-10-23T17:00:00",
+        "end_iso": "2025-10-23T18:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_031",
+        "title": "El origen de las ideas",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Conferencia",
+        "location": "WorkShop Zone (Jalisco B)",
+        "day": "Jueves",
+        "start_iso": "2025-10-23T17:30:00",
+        "end_iso": "2025-10-23T18:30:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_032",
+        "title": "FatFur Meeting",
+        "panelist": "Fat fur meeting",
+        "description": "Espacio para conocer a otros con intereses similares a los personajes gorditos.",
+        "category": "Convivencia",
+        "location": "Meeting Room (Jalisco B)",
+        "day": "Jueves",
+        "start_iso": "2025-10-23T17:30:00",
+        "end_iso": "2025-10-23T18:45:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Meetup",
+            "Social"
+        ]
+    },
+    {
+        "id": "evt_033",
+        "title": "Registro",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Registro",
+        "location": "Recepción (Pasillo Jalisco A-B)",
+        "day": "Sábado",
+        "start_iso": "2025-10-25T08:00:00",
+        "end_iso": "2025-10-25T10:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_034",
+        "title": "Como puedo ayudar a la naturaleza desde casa",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Conferencia",
+        "location": "Main Stage (Jalisco B)",
+        "day": "Sábado",
+        "start_iso": "2025-10-25T10:00:00",
+        "end_iso": "2025-10-25T11:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_035",
+        "title": "Anatomia comparada: ¿Qué hace diferente a un lobo de un mapache?",
+        "panelist": "Sakary Yoliztli",
+        "description": "Clase corta y práctica de dibujo sobre anatomía comparada entre diferentes especies.",
+        "category": "Taller",
+        "location": "Foro I (Montaje Escuela) (Jalisco A)",
+        "day": "Sábado",
+        "start_iso": "2025-10-25T10:00:00",
+        "end_iso": "2025-10-25T11:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Arte",
+            "Biología",
+            "Dibujo"
+        ]
+    },
+    {
+        "id": "evt_036",
+        "title": "SoftCombat",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Social",
+        "location": "Foro I (Lounge General) (Jalisco A)",
+        "day": "Sábado",
+        "start_iso": "2025-10-25T10:00:00",
+        "end_iso": "2025-10-25T11:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_037",
+        "title": "Cómo la Música Académica Dejó de Resonar en la Cultura Popular",
+        "panelist": "Butter Doggy",
+        "description": "Análisis sobre la música académica y cómo dejó de resonar en la cultura popular.",
+        "category": "Conferencia",
+        "location": "Foro II (Jalisco B)",
+        "day": "Sábado",
+        "start_iso": "2025-10-25T10:00:00",
+        "end_iso": "2025-10-25T11:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Música",
+            "Cultura"
+        ]
+    },
+    {
+        "id": "evt_038",
+        "title": "Story Hour",
+        "panelist": "Uncle Kage",
+        "description": "La legendaria hora de historias con el Tío Kage.",
+        "category": "Conferencia",
+        "location": "Foro III (Jalisco B)",
+        "day": "Sábado",
+        "start_iso": "2025-10-25T10:00:00",
+        "end_iso": "2025-10-25T11:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Historias",
+            "Invitado"
+        ]
+    },
+    {
+        "id": "evt_039",
+        "title": "Taller de actuacion de voz y doblaje",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Taller",
+        "location": "WorkShop Zone (Jalisco B)",
+        "day": "Sábado",
+        "start_iso": "2025-10-25T10:00:00",
+        "end_iso": "2025-10-25T11:30:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_040",
+        "title": "Protomeet & Greet",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Social",
+        "location": "Meeting Room (Jalisco B)",
+        "day": "Sábado",
+        "start_iso": "2025-10-25T10:00:00",
+        "end_iso": "2025-10-25T11:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_041",
+        "title": "Punchis-Punchis: Una Exploración de la Música Electrónica",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Conferencia",
+        "location": "Meeting Room (Jalisco B)",
+        "day": "Sábado",
+        "start_iso": "2025-10-25T15:15:00",
+        "end_iso": "2025-10-25T16:15:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_042",
+        "title": "Floor Wars (Final) — Furry Trash & Confuror",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Actividad Grupal",
+        "location": "Main Stage (Jalisco B)",
+        "day": "Sábado",
+        "start_iso": "2025-10-25T16:00:00",
+        "end_iso": "2025-10-25T17:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_043",
+        "title": "Transfuror",
+        "panelist": "Anju Hope e Impulso Trans",
+        "description": "Reunión para personas Trans. Impulso Trans hablará sobre su asociación y servicios.",
+        "category": "Social",
+        "location": "Foro II (Jalisco B)",
+        "day": "Sábado",
+        "start_iso": "2025-10-25T16:30:00",
+        "end_iso": "2025-10-25T17:30:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Trans",
+            "Comunidad"
+        ]
+    },
+    {
+        "id": "evt_044",
+        "title": "Caligrafitti, la magia de los trazos.",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Taller",
+        "location": "WorkShop Zone (Jalisco B)",
+        "day": "Sábado",
+        "start_iso": "2025-10-25T16:30:00",
+        "end_iso": "2025-10-25T17:30:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_045",
+        "title": "Colores Polarizados",
+        "panelist": "ASTEREETO",
+        "description": "Teoría del color avanzada, desde las bases hasta lo más experimentado.",
+        "category": "Conferencia",
+        "location": "Foro III (Jalisco B)",
+        "day": "Sábado",
+        "start_iso": "2025-10-25T17:00:00",
+        "end_iso": "2025-10-25T18:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Arte",
+            "Color"
+        ]
+    },
+    {
+        "id": "evt_046",
+        "title": "El Club de las Patas",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Social",
+        "location": "Meeting Room (Jalisco B)",
+        "day": "Sábado",
+        "start_iso": "2025-10-25T17:00:00",
+        "end_iso": "2025-10-25T18:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_047",
+        "title": "¡Crea tu propia novela Visual!",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Taller",
+        "location": "Foro I (Montaje Escuela) (Jalisco A)",
+        "day": "Sábado",
+        "start_iso": "2025-10-25T17:15:00",
+        "end_iso": "2025-10-25T18:15:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_048",
+        "title": "SUBASTA NSFW",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Ceremonia",
+        "location": "Main Stage (Jalisco B)",
+        "day": "Sábado",
+        "start_iso": "2025-10-25T18:30:00",
+        "end_iso": "2025-10-25T19:30:00",
+        "age_restriction": "18+",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_049",
+        "title": "Gestión de placeres: salud, educación y sexualidad",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Conferencia",
+        "location": "Foro II (Jalisco B)",
+        "day": "Sábado",
+        "start_iso": "2025-10-25T18:45:00",
+        "end_iso": "2025-10-25T19:45:00",
+        "age_restriction": "18+",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_050",
+        "title": "MXN Makers vol.2",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Conferencia",
+        "location": "Foro III (Jalisco B)",
+        "day": "Sábado",
+        "start_iso": "2025-10-25T18:45:00",
+        "end_iso": "2025-10-25T19:45:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_051",
+        "title": "Cómo crear un mundo literario",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Taller",
+        "location": "WorkShop Zone (Jalisco B)",
+        "day": "Sábado",
+        "start_iso": "2025-10-25T18:45:00",
+        "end_iso": "2025-10-25T19:45:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_052",
+        "title": "Bienvenidos a la Grieta del Poliamor (Meet up)",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Social",
+        "location": "Meeting Room (Jalisco B)",
+        "day": "Sábado",
+        "start_iso": "2025-10-25T18:45:00",
+        "end_iso": "2025-10-25T19:45:00",
+        "age_restriction": "18+",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_053",
+        "title": "Fiesta Pagana",
+        "panelist": "La Manada Horny",
+        "description": "Gran fiesta nocturna.",
+        "category": "Fiesta",
+        "location": "Main Stage (Jalisco B)",
+        "day": "Sábado",
+        "start_iso": "2025-10-25T19:00:00",
+        "end_iso": "2025-10-25T21:00:00",
+        "age_restriction": "18+",
+        "tags": [
+            "Fiesta",
+            "Noche"
+        ]
+    },
+    {
+        "id": "evt_054",
+        "title": "Torneo LoreFurry",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Actividad Grupal",
+        "location": "Artist Alley (Jalisco B)",
+        "day": "Sábado",
+        "start_iso": "2025-10-25T19:45:00",
+        "end_iso": "2025-10-25T20:45:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_055",
+        "title": "Registro",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Registro",
+        "location": "Recepción (Pasillo Jalisco A-B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T08:00:00",
+        "end_iso": "2025-10-24T10:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_056",
+        "title": "Ceremonia de Apertura",
+        "panelist": "Confuror",
+        "description": "Bienvenida oficial a la edición 2025.",
+        "category": "Ceremonia",
+        "location": "Main Stage (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T10:00:00",
+        "end_iso": "2025-10-24T11:30:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General",
+            "Bienvenida"
+        ]
+    },
+    {
+        "id": "evt_057",
+        "title": "Floor Wars Eliminatoria",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Actividad Grupal",
+        "location": "Meeting Room (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T10:00:00",
+        "end_iso": "2025-10-24T11:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_058",
+        "title": "Finanzas Personales explicadas con Patitas",
+        "panelist": "Muky Sam",
+        "description": "Educación financiera simple y sencilla para lograr metas a corto y largo plazo.",
+        "category": "Conferencia",
+        "location": "Foro II (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T11:30:00",
+        "end_iso": "2025-10-24T12:30:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Finanzas",
+            "Vida"
+        ]
+    },
+    {
+        "id": "evt_059",
+        "title": "¡Haz tu propio fursuit prop!",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Taller",
+        "location": "WorkShop Zone (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T11:45:00",
+        "end_iso": "2025-10-24T12:45:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_060",
+        "title": "Auxilio, estoy atrapado en el elevador",
+        "panelist": "Nardo 'El Zorro' Virlan",
+        "description": "En todas las convenciones usamos el transporte vertical. Hablemos de cómo funcionan y cómo nos cuidan.",
+        "category": "Conferencia",
+        "location": "Foro I (Montaje Escuela) (Jalisco A)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T12:15:00",
+        "end_iso": "2025-10-24T13:45:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Tecnología",
+            "Seguridad"
+        ]
+    },
+    {
+        "id": "evt_061",
+        "title": "Build-A-Bear: Cuerpos Fuertes",
+        "panelist": "Ryom Bear",
+        "description": "Ejercicio, nutrición y estrategias para enfrentar la dismorfia corporal.",
+        "category": "Conferencia",
+        "location": "Foro II (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T12:45:00",
+        "end_iso": "2025-10-24T14:15:00",
+        "age_restriction": "18+",
+        "tags": [
+            "Salud",
+            "Fitness"
+        ]
+    },
+    {
+        "id": "evt_062",
+        "title": "El Universo en la Semilla",
+        "panelist": "Arturo Tornero Aceves",
+        "description": "Animación Stop Motion y sustentabilidad.",
+        "category": "Conferencia",
+        "location": "Foro III (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T12:45:00",
+        "end_iso": "2025-10-24T13:45:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Animación",
+            "Ecología"
+        ]
+    },
+    {
+        "id": "evt_063",
+        "title": "Taller para papás (y mamás)",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Taller",
+        "location": "Meeting Room (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T13:30:00",
+        "end_iso": "2025-10-24T14:30:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_064",
+        "title": "Ghosting: Qué hago si no me contesta",
+        "panelist": "Israel (Orga-zmo)",
+        "description": "Platiquemos sobre las veces que hemos ghosteado o nos lo han hecho. ¿Qué hacer con las emociones?",
+        "category": "Social",
+        "location": "Foro I (Lounge General) (Jalisco A)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T14:00:00",
+        "end_iso": "2025-10-24T16:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Psicología",
+            "Relaciones"
+        ]
+    },
+    {
+        "id": "evt_065",
+        "title": "Hacia lo salvaje: Trabajando con lobos",
+        "panelist": "Khaos Coyote",
+        "description": "Historia de conservación y trabajo con lobos, coyotes y osos.",
+        "category": "Conferencia",
+        "location": "Foro III (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T14:00:00",
+        "end_iso": "2025-10-24T15:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Biología",
+            "Vida"
+        ]
+    },
+    {
+        "id": "evt_066",
+        "title": "Creación de Contenido Furry En VR",
+        "panelist": "Ian the Doggo",
+        "description": "Ven a descubrir nuestro mundo en VRChat. Prueba una versión offline y conoce el proyecto.",
+        "category": "Conferencia",
+        "location": "WorkShop Zone (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T14:00:00",
+        "end_iso": "2025-10-24T15:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "VR",
+            "Tecnología"
+        ]
+    },
+    {
+        "id": "evt_067",
+        "title": "Salud y Cotorreo de (a) Pelos",
+        "panelist": "Odder / VIHveLibre",
+        "description": "Aprende de prevención, detección y tratamiento de VIH de forma interactiva.",
+        "category": "Conferencia",
+        "location": "Foro II (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T14:30:00",
+        "end_iso": "2025-10-24T16:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Salud",
+            "Educación"
+        ]
+    },
+    {
+        "id": "evt_068",
+        "title": "100 furros dijeron",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Actividad Grupal",
+        "location": "Foro III (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T15:15:00",
+        "end_iso": "2025-10-24T16:15:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_069",
+        "title": "Confuloid",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Social",
+        "location": "Meeting Room (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T16:00:00",
+        "end_iso": "2025-10-24T17:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_070",
+        "title": "El Bestiario (Animales Fantásticos)",
+        "panelist": "Skitties",
+        "description": "Explorando los mitos y leyendas reales detrás de las criaturas fantásticas.",
+        "category": "Conferencia",
+        "location": "Foro II (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T16:15:00",
+        "end_iso": "2025-10-24T17:30:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Mitología",
+            "Cultura"
+        ]
+    },
+    {
+        "id": "evt_071",
+        "title": "Torneo de Digimon Card Game 2025",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Actividad Grupal",
+        "location": "Artist Alley (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T17:00:00",
+        "end_iso": "2025-10-24T18:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_072",
+        "title": "Entre colas y camaras: Taller de fotografia creativa",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Taller",
+        "location": "WorkShop Zone (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T17:00:00",
+        "end_iso": "2025-10-24T18:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_073",
+        "title": "Fat Fur Art. Los cuerpos gordos en el arte furry.",
+        "panelist": "Lean Lion",
+        "description": "Introducción, tips y comentarios para empezar a dibujar diversidad de cuerpos.",
+        "category": "Conferencia",
+        "location": "Foro II (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T17:30:00",
+        "end_iso": "2025-10-24T18:30:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Arte",
+            "Dibujo"
+        ]
+    },
+    {
+        "id": "evt_074",
+        "title": "I Think I Like You",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Conferencia",
+        "location": "Foro III (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T17:30:00",
+        "end_iso": "2025-10-24T18:30:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_075",
+        "title": "¡El Gran Canta con Nosotros/Trivia Disney!",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Actividad Grupal",
+        "location": "Meeting Room (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T17:45:00",
+        "end_iso": "2025-10-24T18:45:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_076",
+        "title": "621 Trukos",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Social",
+        "location": "Main Stage (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T18:00:00",
+        "end_iso": "2025-10-24T19:00:00",
+        "age_restriction": "18+",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_077",
+        "title": "Arma tu PC GAMER",
+        "panelist": "Dr. Caballo",
+        "description": "Todo lo que necesitas para armar tu PC. Espacio para principiantes y expertos.",
+        "category": "Conferencia",
+        "location": "WorkShop Zone (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T18:15:00",
+        "end_iso": "2025-10-24T19:15:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Tecnología",
+            "PC"
+        ]
+    },
+    {
+        "id": "evt_078",
+        "title": "Pokemeet 2.0",
+        "panelist": "Nekori Snowfield",
+        "description": "Reunión para fans de Pokemon, concursos y trivias.",
+        "category": "Convivencia",
+        "location": "Foro II (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T18:45:00",
+        "end_iso": "2025-10-24T20:45:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Pokemon",
+            "Social"
+        ]
+    },
+    {
+        "id": "evt_079",
+        "title": "Las bases de crear un buen cómic.",
+        "panelist": "Tigerlion Moikana",
+        "description": "Narrativa visual, ritmo, viñetas y composición.",
+        "category": "Conferencia",
+        "location": "Foro III (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T18:45:00",
+        "end_iso": "2025-10-24T19:45:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Comics",
+            "Arte"
+        ]
+    },
+    {
+        "id": "evt_080",
+        "title": "Aizack: Fur the Night - Under the Neon Moon",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Música",
+        "location": "Main Stage (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T19:00:00",
+        "end_iso": "2025-10-24T20:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_081",
+        "title": "Howling Gala (Cena)",
+        "panelist": "Confuror",
+        "description": "Noche de gala y celebración especial.",
+        "category": "Ceremonia",
+        "location": "Foro I (Montaje Escuela) (Jalisco A)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T19:00:00",
+        "end_iso": "2025-10-24T21:00:00",
+        "age_restriction": "18+",
+        "tags": [
+            "Fiesta",
+            "Gala"
+        ]
+    },
+    {
+        "id": "evt_082",
+        "title": "Como acampar y no morir en el intento",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Conferencia",
+        "location": "WorkShop Zone (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T19:30:00",
+        "end_iso": "2025-10-24T20:30:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_083",
+        "title": "Un hotdog, ¿es un sándwich?",
+        "panelist": "KnoxFox",
+        "description": "Debate divertido: ¿Es un hotdog un sandwich? Únete a la discusión.",
+        "category": "Debate",
+        "location": "Meeting Room (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-24T19:30:00",
+        "end_iso": "2025-10-24T20:30:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Cultura",
+            "Debate"
+        ]
+    },
+    {
+        "id": "evt_084",
+        "title": "Registro",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Registro",
+        "location": "Recepción (Pasillo Jalisco A-B)",
+        "day": "Domingo",
+        "start_iso": "2025-10-26T08:00:00",
+        "end_iso": "2025-10-26T10:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_085",
+        "title": "Retroalimentación Confuror",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Conferencia",
+        "location": "Foro I (Montaje Escuela) (Jalisco A)",
+        "day": "Domingo",
+        "start_iso": "2025-10-26T10:00:00",
+        "end_iso": "2025-10-26T11:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_086",
+        "title": "Charadas en Fursuit / Fursuit Charades",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Actividad Grupal",
+        "location": "Foro I (Lounge General) (Jalisco A)",
+        "day": "Domingo",
+        "start_iso": "2025-10-26T10:00:00",
+        "end_iso": "2025-10-26T11:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_087",
+        "title": "Recuerdios del ayer, animacion y pasion",
+        "panelist": "Haru the Cat",
+        "description": "Presentación de un nuevo proyecto de animación elaborado por furrys.",
+        "category": "Conferencia",
+        "location": "Foro II (Jalisco B)",
+        "day": "Domingo",
+        "start_iso": "2025-10-26T10:00:00",
+        "end_iso": "2025-10-26T11:30:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Animación",
+            "Arte"
+        ]
+    },
+    {
+        "id": "evt_088",
+        "title": "Creación e interpretación de personajes en la actuación de voz",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Conferencia",
+        "location": "Foro III (Jalisco B)",
+        "day": "Domingo",
+        "start_iso": "2025-10-26T10:00:00",
+        "end_iso": "2025-10-26T11:30:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_089",
+        "title": "Peludo y Estampado: Taller de playeras",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Taller",
+        "location": "WorkShop Zone (Jalisco B)",
+        "day": "Domingo",
+        "start_iso": "2025-10-26T10:00:00",
+        "end_iso": "2025-10-26T11:30:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_090",
+        "title": "K-FURS MEETING",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Social",
+        "location": "Meeting Room (Jalisco B)",
+        "day": "Domingo",
+        "start_iso": "2025-10-26T10:00:00",
+        "end_iso": "2025-10-26T11:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_091",
+        "title": "Diseño de fursuits y tu creatividad en ello",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Conferencia",
+        "location": "Foro II (Jalisco B)",
+        "day": "Domingo",
+        "start_iso": "2025-10-26T11:30:00",
+        "end_iso": "2025-10-26T12:30:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_092",
+        "title": "Los secretos del Arte digital",
+        "panelist": "WizardBear",
+        "description": "¿Cuáles son las técnicas secretas que los grandes maestros del dibujo emplean?",
+        "category": "Conferencia",
+        "location": "Foro III (Jalisco B)",
+        "day": "Domingo",
+        "start_iso": "2025-10-26T11:45:00",
+        "end_iso": "2025-10-26T13:15:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Arte",
+            "Digital"
+        ]
+    },
+    {
+        "id": "evt_093",
+        "title": "Furry y la IA",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Conferencia",
+        "location": "WorkShop Zone (Jalisco B)",
+        "day": "Domingo",
+        "start_iso": "2025-10-26T11:45:00",
+        "end_iso": "2025-10-26T12:45:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_094",
+        "title": "Tu primer fursuit, ¿Como elegir sin morir en el intento?",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Conferencia",
+        "location": "Meeting Room (Jalisco B)",
+        "day": "Domingo",
+        "start_iso": "2025-10-26T11:45:00",
+        "end_iso": "2025-10-26T12:45:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_095",
+        "title": "Yokai Daruma, Aprendiendo de la resiliencia del daruma para hacer un proyecto realidad.",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Conferencia",
+        "location": "Foro II (Jalisco B)",
+        "day": "Domingo",
+        "start_iso": "2025-10-26T13:00:00",
+        "end_iso": "2025-10-26T14:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_096",
+        "title": "Diseño y Creación de Videojuegos",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Conferencia",
+        "location": "Foro III (Jalisco B)",
+        "day": "Domingo",
+        "start_iso": "2025-10-26T13:30:00",
+        "end_iso": "2025-10-26T14:30:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_097",
+        "title": "Furry TikTok Meetup",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Social",
+        "location": "Meeting Room (Jalisco B)",
+        "day": "Domingo",
+        "start_iso": "2025-10-26T13:30:00",
+        "end_iso": "2025-10-26T14:30:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_098",
+        "title": "Sticker Swap Furry: Comparte, Intercambia y Conecta",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Social",
+        "location": "Foro I (Lounge General) (Jalisco A)",
+        "day": "Domingo",
+        "start_iso": "2025-10-26T14:00:00",
+        "end_iso": "2025-10-26T15:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_099",
+        "title": "El circulo de Fuego",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Social",
+        "location": "WorkShop Zone (Jalisco B)",
+        "day": "Domingo",
+        "start_iso": "2025-10-26T14:00:00",
+        "end_iso": "2025-10-26T15:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_100",
+        "title": "Concurso de Baile (Final) — Astral & Confuror",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Actividad Grupal",
+        "location": "Main Stage (Jalisco B)",
+        "day": "Domingo",
+        "start_iso": "2025-10-26T14:15:00",
+        "end_iso": "2025-10-26T15:15:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_101",
+        "title": "Diseñando y mejorando a tu Fursona",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Taller",
+        "location": "Foro I (Montaje Escuela) (Jalisco A)",
+        "day": "Domingo",
+        "start_iso": "2025-10-26T14:15:00",
+        "end_iso": "2025-10-26T15:15:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_102",
+        "title": "Color y personalidad en el diseño de personajes",
+        "panelist": "Cinna",
+        "description": "Cómo usar y romper la teoría del color para tus fursonas.",
+        "category": "Conferencia",
+        "location": "Foro III (Jalisco B)",
+        "day": "Domingo",
+        "start_iso": "2025-10-26T14:15:00",
+        "end_iso": "2025-10-26T15:15:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Arte",
+            "Diseño"
+        ]
+    },
+    {
+        "id": "evt_103",
+        "title": "Quieres Dibujar Musculos",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Taller",
+        "location": "Foro II (Jalisco B)",
+        "day": "Domingo",
+        "start_iso": "2025-10-26T15:15:00",
+        "end_iso": "2025-10-26T16:15:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_104",
+        "title": "Vrchat con Chasito y amigos",
+        "panelist": "Confuror",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Social",
+        "location": "Meeting Room (Jalisco B)",
+        "day": "Domingo",
+        "start_iso": "2025-10-26T15:15:00",
+        "end_iso": "2025-10-26T16:15:00",
+        "age_restriction": "TP",
+        "tags": [
+            "General"
+        ]
+    },
+    {
+        "id": "evt_105",
+        "title": "Como realizar un documental furry",
+        "panelist": "Hannah Millers",
+        "description": "Experiencia y tips sobre la creación de documentales.",
+        "category": "Conferencia",
+        "location": "Foro III (Jalisco B)",
+        "day": "Domingo",
+        "start_iso": "2025-10-26T15:30:00",
+        "end_iso": "2025-10-26T17:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Cine",
+            "Documental"
+        ]
+    },
+    {
+        "id": "evt_106",
+        "title": "La Web Indie: Un blog al puro estilo de MySpace, en 2025.",
+        "panelist": "Ekadex",
+        "description": "Crea tu propia página web o blog personalizado. HTML, CSS y hosting.",
+        "category": "Conferencia",
+        "location": "WorkShop Zone (Jalisco B)",
+        "day": "Domingo",
+        "start_iso": "2025-10-26T16:15:00",
+        "end_iso": "2025-10-26T17:45:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Tecnología",
+            "Web"
+        ]
+    },
+    {
+        "id": "evt_107",
+        "title": "Subasta Caridad",
+        "panelist": "Confuror",
+        "description": "Apoya a la causa de este año.",
+        "category": "Ceremonia",
+        "location": "Main Stage (Jalisco B)",
+        "day": "Domingo",
+        "start_iso": "2025-10-26T16:30:00",
+        "end_iso": "2025-10-26T19:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Caridad",
+            "Subasta"
+        ]
+    },
+    {
+        "id": "evt_108",
+        "title": "Clausura",
+        "panelist": "Confuror",
+        "description": "Cierre oficial de Confuror 2025.",
+        "category": "Ceremonia",
+        "location": "Main Stage (Jalisco B)",
+        "day": "Domingo",
+        "start_iso": "2025-10-26T19:00:00",
+        "end_iso": "2025-10-26T20:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Despedida"
+        ]
+    },
+    {
+        "id": "evt_109",
+        "title": "Relaciones Poli y no morir en el intento",
+        "panelist": "Knut - Grizz - Jat",
+        "description": "Experiencias, anécdotas y consejos para mantener una relación poliamorosa.",
+        "category": "Conferencia",
+        "location": "Foro I (Usos Múltiples) (Jalisco A)",
+        "day": "Sábado",
+        "start_iso": "2025-10-11T11:45:00",
+        "end_iso": "2025-10-11T12:45:00",
+        "age_restriction": "18+",
+        "tags": [
+            "Relaciones",
+            "Vida"
+        ]
+    },
+    {
+        "id": "evt_110",
+        "title": "De cuento a leyenda: Mejora tu redacción",
+        "panelist": "SeiferWolfDragon",
+        "description": "Panel sobre cómo mejorar la redacción y el storytelling, abordando el uso de clichés y estructura narrativa.",
+        "category": "Conferencia",
+        "location": "Foro I (Usos Múltiples) (Jalisco A)",
+        "day": "Sábado",
+        "start_iso": "2025-10-11T13:00:00",
+        "end_iso": "2025-10-11T14:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Escritura",
+            "Literatura"
+        ]
+    },
+    {
+        "id": "evt_111",
+        "title": "Furros sin bañar y el olor corporal",
+        "panelist": "Sasanntai",
+        "description": "Un enfoque científico sobre la atracción al olor corporal y el musk en el fandom.",
+        "category": "Conferencia",
+        "location": "Foro II (Jalisco B)",
+        "day": "Sábado",
+        "start_iso": "2025-10-11T13:00:00",
+        "end_iso": "2025-10-11T14:30:00",
+        "age_restriction": "18+",
+        "tags": [
+            "Ciencia",
+            "Musk"
+        ]
+    },
+    {
+        "id": "evt_112",
+        "title": "Diversidad Furra",
+        "panelist": "IZAC",
+        "description": "Exploramos convenciones furro en todo el mundo, datos curiosos y cultura.",
+        "category": "Conferencia",
+        "location": "WorkShop Zone (Jalisco B)",
+        "day": "Jueves",
+        "start_iso": "2025-10-09T18:45:00",
+        "end_iso": "2025-10-09T20:15:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Cultura",
+            "Viajes"
+        ]
+    },
+    {
+        "id": "evt_113",
+        "title": "Conociendo A Takemoto!",
+        "panelist": "Takemoto",
+        "description": "Conoce más de Takemoto y su trayectoria. ¡Habrá sorpresas!",
+        "category": "Conferencia",
+        "location": "Main Stage (Jalisco B)",
+        "day": "Sábado",
+        "start_iso": "2025-10-11T11:15:00",
+        "end_iso": "2025-10-11T12:15:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Invitado",
+            "Arte"
+        ]
+    },
+    {
+        "id": "evt_114",
+        "title": "Show Pink Dog",
+        "panelist": "Pink Dog",
+        "description": "Balada pop, trap rap y RnB contemporáneo.",
+        "category": "Música",
+        "location": "Main Stage (Jalisco B)",
+        "day": "Jueves",
+        "start_iso": "2025-10-09T14:00:00",
+        "end_iso": "2025-10-09T15:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Concierto",
+            "Música"
+        ]
+    },
+    {
+        "id": "evt_115",
+        "title": "BELLAKEO FUR VOL 3.0",
+        "panelist": "Furry Trash",
+        "description": "DJ set de ritmos latinos, reggaeton y mucho sabor mexa.",
+        "category": "Fiesta",
+        "location": "Main Stage (Jalisco B)",
+        "day": "Sábado",
+        "start_iso": "2025-10-11T22:00:00",
+        "end_iso": "2025-10-11T23:00:00",
+        "age_restriction": "18+",
+        "tags": [
+            "Fiesta",
+            "Latino"
+        ]
+    },
+    {
+        "id": "evt_116",
+        "title": "Taller de dibujo al desnudo",
+        "panelist": "Rom Howler",
+        "description": "Taller de dibujo con modelo al desnudo en vivo.",
+        "category": "Taller",
+        "location": "Foro II (Jalisco B)",
+        "day": "Jueves",
+        "start_iso": "2025-10-09T18:15:00",
+        "end_iso": "2025-10-09T19:45:00",
+        "age_restriction": "18+",
+        "tags": [
+            "Arte",
+            "NSFW"
+        ]
+    },
+    {
+        "id": "evt_117",
+        "title": "Fursuit Parade",
+        "panelist": "Confuror",
+        "description": "Ven a convivir con tus amigos en fursuit. El desfile principal.",
+        "category": "Actividad Grupal",
+        "location": "Recepción (Pasillo Jalisco A-B)",
+        "day": "Sábado",
+        "start_iso": "2025-10-11T15:30:00",
+        "end_iso": "2025-10-11T17:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Fursuit",
+            "Desfile"
+        ]
+    },
+    {
+        "id": "evt_118",
+        "title": "Just Dance Furry 2026",
+        "panelist": "Confetti Catto",
+        "description": "Bailaremos al ritmo de Just Dance. ¡Estreno exclusivo 2026!",
+        "category": "Actividad Grupal",
+        "location": "Meeting Room (Jalisco B)",
+        "day": "Viernes",
+        "start_iso": "2025-10-10T14:00:00",
+        "end_iso": "2025-10-10T15:00:00",
+        "age_restriction": "TP",
+        "tags": [
+            "Baile",
+            "Videojuegos"
+        ]
+    }
+]
